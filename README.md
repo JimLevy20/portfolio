@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi there! I'm Akande Kabir 🤓, a data analyst specializing in data-driven professional leveraging analytical expertise, statistical tools, and data visualization to uncover insights, optimize processes, and drive informed business decisions.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
