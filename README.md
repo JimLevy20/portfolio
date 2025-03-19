@@ -29,7 +29,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Preformance Analysis Dataset Of Cars Sales Between 6 Regions in Nigeria.**
 
 ![image](assets/agro.jpg)
 
