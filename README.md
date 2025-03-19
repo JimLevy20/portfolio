@@ -13,15 +13,9 @@ Hi there! I'm Akande Kabir Oluwaseun 🤓, I'm currently learning data analysis 
 ![image](assets/WhatsApp Image 2024-11-30 at 01.39.07.jpeg)
 
 
-**Preformance Analysis Dataset Of Cars Sales Between 6 Regions in Nigeria.**
+**HR Attrition Analysis.**
 
 ![image](assets/agro.jpg)
-
-
-**Attrition Analysis**
-![image](assets/417528845_10224984773746792_6587086704764480413_n.jpg)
-In this course, you will learn how to analyze HR and employee data, including demographics, job roles, performance metrics, and workplace satisfaction, to identify the underlying causes and predictors of employee attrition.
-
 
 
 
@@ -32,7 +26,7 @@ In this course, you will learn how to analyze HR and employee data, including de
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:oakseun2021@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:oakseun2021@gmail.com">oakseun2021@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
