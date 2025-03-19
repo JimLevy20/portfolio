@@ -34,7 +34,7 @@ Hi there! I'm Akande Kabir Oluwaseun 🤓, I'm currently learning data analysis 
     </tr>
     <tr>
       <td>📍</td>
-      <td>LG, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       
