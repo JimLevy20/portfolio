@@ -15,7 +15,7 @@ Hi there! I'm Akande Kabir Oluwaseun 🤓, I'm currently learning data analysis 
 
 **HR Attrition Analysis.**
 
-![image](assets/agro.jpg)
+![image](Attrition Dashboard C.jpeg)
 
 
 
